@@ -2,7 +2,7 @@
 
 互動式網格地圖，視覺化展示隨機策略評估（Policy Evaluation）與價值迭代（Value Iteration）兩種強化學習演算法。
 
-🔗 **[線上 Demo](https://gridworld-takehome.onrender.com)**
+🔗 **[線上 Demo](https://gridworld-takehome.onrender.com)**（免費方案閒置後會睡眠，首次開啟請等待約 30~60 秒喚醒）
 
 ---
 
