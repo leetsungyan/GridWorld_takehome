@@ -2,7 +2,7 @@
 
 互動式網格地圖，視覺化展示隨機策略評估（Policy Evaluation）與價值迭代（Value Iteration）兩種強化學習演算法。
 
-🔗 **[線上 Demo](https://your-demo-url.onrender.com)** ← 部署後填入
+🔗 **[線上 Demo](https://gridworld-takehome.onrender.com)**
 
 ---
 
